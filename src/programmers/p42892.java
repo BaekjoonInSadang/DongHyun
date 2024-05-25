@@ -42,13 +42,6 @@ class P42892 {
             this.index = index;
         }
 
-//        public void linkingLeft(Node left) {
-//            this.leftChild = left;
-//        }
-//
-//        public void linkingRight(Node right) {
-//            this.rightChild = right;
-//        }
 
         public void setChild(Node child) {
             if (child.x < x) {
