@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c0c9f1d-7960-4b62-9026-8d55e8363e0f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTestSadang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/P42628.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/p42892.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/P42892.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c0c9f1d-7960-4b62-9026-8d55e8363e0f" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716625634243</updated>
-      <workItem from="1716625635604" duration="308000" />
+      <workItem from="1716625635604" duration="996000" />
     </task>
     <servers />
   </component>
