@@ -1,4 +1,4 @@
-package programmers;
+package programmers.dataStructure;
 
 import java.util.TreeSet;
 
