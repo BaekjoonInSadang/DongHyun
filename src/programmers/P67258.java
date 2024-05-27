@@ -1,0 +1,44 @@
+package programmers;
+
+import java.util.*;
+class P67258 {
+    public int[] solution(String[] gems) {
+//        String[] gems = new String[]{"A", "B", "B", "B", "C", "D", "D", "D", "D", "D", "D", "D", "B", "C", "A"};
+        List<String> list = Arrays.asList(gems);
+        Set<String> gemSet = new HashSet<>(list);
+        int markSize = gemSet.size();
+        int[] answer = new int[]{1, gems.length};
+        int start = 0;
+        int end = 0;
+        Map<String, Integer> markMap = new HashMap();
+        while (start <= end && end < gems.length) {
+            int size = markMap.size();
+            if (size < markSize) {
+                markMap.put(gems[end], markMap.getOrDefault(gems[end], 0) + 1);
+            } else {
+                removeData(markMap, gems[start]);
+                answer = updateIndex(start, end, answer);
+                start++;
+            }
+            if (markMap.size() != markSize) {
+                end++;
+            }
+        }
+        return answer;
+    }
+    private int[] updateIndex(int start, int end, int[] answer) {
+        if ((end - start) >= answer[1] - answer[0]) {
+            return answer;
+        } else {
+            return new int[]{start + 1, end + 1};
+        }
+    }
+    private void removeData(Map<String, Integer> markMap, String gem) {
+        int value = markMap.get(gem);
+        if(value ==1){
+            markMap.remove(gem);
+            return;
+        }
+        markMap.put(gem, value - 1);
+    }
+}
