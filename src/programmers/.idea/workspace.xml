@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f55a7097-be11-4e3f-a719-537649ba86f2" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStructure/p42861.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure/p42861.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -35,6 +39,9 @@
     &quot;accountId&quot;: &quot;7959c7da-4cf6-41fd-a22e-dfd450e9b6a0&quot;
   }
 }</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="PerforceDirect.Settings">
     <option name="CHARSET" value="없음" />
   </component>
@@ -53,11 +60,13 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/leedonghyun/Desktop/study/CodingTestSadang/src/programmers",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717052038277</updated>
       <workItem from="1717052039448" duration="841000" />
-      <workItem from="1717053328323" duration="3719000" />
+      <workItem from="1717053328323" duration="4636000" />
     </task>
     <servers />
   </component>
