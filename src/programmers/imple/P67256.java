@@ -1,4 +1,4 @@
-package programmers.dataStructure;
+package programmers.imple;
 
 import java.util.ArrayList;
 import java.util.List;
