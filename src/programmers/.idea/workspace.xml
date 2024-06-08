@@ -7,7 +7,6 @@
     <list default="true" id="f55a7097-be11-4e3f-a719-537649ba86f2" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStructure/p42861.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure/p42861.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717052038277</updated>
       <workItem from="1717052039448" duration="841000" />
-      <workItem from="1717053328323" duration="4636000" />
+      <workItem from="1717053328323" duration="8122000" />
     </task>
     <servers />
   </component>
