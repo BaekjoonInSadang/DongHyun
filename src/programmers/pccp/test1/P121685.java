@@ -1,4 +1,4 @@
-package programmers.pccp;
+package programmers.pccp.test1;
 
 public class P121685 {
     class Solution {

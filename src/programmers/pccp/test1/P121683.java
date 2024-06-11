@@ -1,4 +1,4 @@
-package programmers.pccp;
+package programmers.pccp.test1;
 
 import java.util.ArrayList;
 import java.util.Collections;
